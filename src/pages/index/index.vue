@@ -11,7 +11,7 @@
 export default {
   data() {
     return {
-      title: 'MyFirstWechatApp',
+      title: 'MyFirstWechatApp11',
     }
   },
   onLoad() {},
